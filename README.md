@@ -4,4 +4,11 @@
 ## Get Started
 ```
 $ git clone https://github.com/Mr-Perfection/ionic-first-app.git
+$ sudo npm install --global --unsafe-perm quickscrape
+$ sudo npm install -g cordova ionic --unsafe-perm quickscrape
+$ sudo npm install -g ionic --unsafe-perm node-sass
+$ npm install -g cordova ionic # Mac, got errors
+
 ```
+
+## 
